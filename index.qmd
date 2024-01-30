@@ -12,7 +12,9 @@ sidebar: false
 :::
 
 ::: {.column width="60%"}
-I'm a PhD student in the Beltran Lab at UC Santa Cruz interested in utilizing long-term ecological data sets for conservation, with current projects spanning demography, passive acoustics, and bio-logging. I'm passionate about inclusive teaching, mentoring and publishing with undergraduates, and science facilitation practices.
+I'm a PhD student in the Beltran Lab at UC Santa Cruz interested in utilizing long-term ecological data sets for conservation.
+
+My current projects focus on demography, passive acoustics, and bio-logging. I'm passionate about inclusive teaching, mentoring/publishing with undergraduates, and science facilitation practices.
 :::
 :::
 

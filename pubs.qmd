@@ -4,6 +4,13 @@ sidebar: false
 ---
 
 ```{r}
+#| message: false
+#| echo: false
+
+library(tidyverse)
+```
+
+```{r}
 #| output: asis
 #| code-fold: true
 #| message: false

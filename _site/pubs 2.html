@@ -202,7 +202,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>}</span>
 <span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a><span class="co"># Read bib file</span></span>
-<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>pubs <span class="ot">&lt;-</span> <span class="fu">suppressWarnings</span>(bib2df<span class="sc">::</span><span class="fu">bib2df</span>(<span class="st">"works.bib"</span>)) <span class="sc">|&gt;</span></span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>pubs <span class="ot">&lt;-</span> bib2df<span class="sc">::</span><span class="fu">bib2df</span>(<span class="st">"works.bib"</span>) <span class="sc">|&gt;</span></span>
 <span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>  <span class="co"># Retain relevant fields and format author list</span></span>
 <span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">transmute</span>(</span>
 <span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>    <span class="at">authors =</span> purrr<span class="sc">::</span><span class="fu">map_chr</span>(AUTHOR, format_authors),</span>
@@ -214,22 +214,26 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">mutate</span>(</span>
 <span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>    <span class="at">pub_html =</span> glue<span class="sc">::</span><span class="fu">glue</span>(<span class="st">"&lt;li&gt;{authors}. ({year}). {title}. &lt;em&gt;{journal}&lt;/em&gt;."</span>)</span>
 <span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">|&gt;</span></span>
-<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">pull</span>(pub_html)</span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a><span class="co"># Reverse ordered list</span></span>
-<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a><span class="fu">c</span>(</span>
-<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a>  <span class="st">"&lt;ol reversed&gt;"</span>,</span>
-<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a>  pubs,</span>
-<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>  <span class="st">"&lt;/ol&gt;"</span></span>
-<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a>) <span class="sc">|&gt;</span></span>
-<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a>  <span class="fu">cat</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">pull</span>(pub_html)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<pre><code>Warning: `as_data_frame()` was deprecated in tibble 2.0.0.
+ℹ Please use `as_tibble()` (with slightly different semantics) to convert to a
+  tibble, or `as.data.frame()` to convert to a data frame.
+ℹ The deprecated feature was likely used in the bib2df package.
+  Please report the issue to the authors.</code></pre>
+<details>
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Reverse ordered list</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">c</span>(</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="st">"&lt;ol reversed&gt;"</span>,</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  pubs,</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>  <span class="st">"&lt;/ol&gt;"</span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>) <span class="sc">|&gt;</span></span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">cat</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <ol reversed="">
 <li>
-Cronin, M.R., Zavaleta, E.S., Beltran, R.S., Esparza, M., <strong>Payne, A.R.</strong>, …, Jones, M.S.. (2024). Testing the effectiveness of interactive training on sexual harassment and assault in field science. <em>Scientific reports</em>.
-</li><li>
-Abdel-Raheem, S.T., <strong>Payne, A.R.</strong>, Rivera, M., Sturdivant, K., W., …, Beltran, R.. (2023). Oceanography’s Diversity Deficit: Identifying and Addressing Challenges for Marginalized Groups. <em>Oceanography</em>.
-</li><li>
-Webber, M.A., Keener, W., Spears, A.C., Cotter, M.P., Lane, R.S., <strong>Payne, A.R.</strong>, Markowitz, T.M.. (2023). New Record of California Coastal Bottlenose Dolphins (<i>Tursiops truncatus</i>) in Offshore Waters. <em>Aquatic Mammals</em>.
+Webber, M.A., Keener, W., Spears, A.C., Cotter, M.P., Lane, R.S., <strong>Payne, A.R.</strong>, Markowitz, T.M.. (2023). New Record of California Coastal Bottlenose Dolphins (Tursiops truncatus) in Offshore Waters. <em>Aquatic Mammals</em>.
 </li></ol>
 
 

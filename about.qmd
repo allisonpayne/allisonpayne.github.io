@@ -20,6 +20,8 @@ My dissertation will focus on:
 -   detecting cryptic beaked whale species in Monterey Bay from fixed hydrophones
 
 -   instrumenting elephant seals with a novel passive acoustic instrument to detect beaked whales across the North Pacific
+
+-   Designing an undergraduate curriculum to inspire future generations of queer ecologists and assessing the course's impact
 :::
 :::
 

@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Code\n# Format a publication's author list\nformat_authors &lt;- function(authors) {\n  # Split authors' names (First MI Last or First Last)\n  authors_split &lt;- stringr::str_split(authors, \" \")\n  # Format as Last, FI. or Last, FI.MI.\n  authors_formatted &lt;- purrr::map_chr(\n    authors_split,\n    function(parts) {\n      if (length(parts) == 3) {\n        sprintf(\"%s %s.%s.\", \n                parts[1], \n                substr(parts[2], 1, 1), \n                substr(parts[3], 1, 1))\n      } else {\n        sprintf(\"%s %s.\", \n                parts[1], \n                substr(parts[2], 1, 1))\n      }\n    }\n  )\n  # Shorten long author lists\n  if (length(authors_formatted) &gt; 7) {\n    authors_short &lt;- c(authors_formatted[1:5], \n                       \"...\", \n                       authors_formatted[length(authors_formatted)])\n  } else {\n    authors_short &lt;- authors_formatted\n  }\n  # Make my name bold\n  authors_short[authors_short == \"Payne, A.R.\"] &lt;- \"&lt;strong&gt;Payne, A.R.&lt;/strong&gt;\"\n  # Concatenate\n  paste(authors_short, collapse = \", \")\n}\n\n# Read bib file\npubs &lt;- bib2df::bib2df(\"works.bib\") |&gt;\n  # Retain relevant fields and format author list\n  dplyr::transmute(\n    authors = purrr::map_chr(AUTHOR, format_authors),\n    title = TITLE,\n    journal = JOURNAL,\n    year = YEAR\n  ) |&gt;\n  # Format in HTML. Markdown doesn't support reverse ordered lists??\n  dplyr::mutate(\n    pub_html = glue::glue(\"&lt;li&gt;{authors}. ({year}). {title}. &lt;em&gt;{journal}&lt;/em&gt;.\")\n  ) |&gt;\n  dplyr::pull(pub_html)\n\nWarning: `as_data_frame()` was deprecated in tibble 2.0.0.\nℹ Please use `as_tibble()` (with slightly different semantics) to convert to a\n  tibble, or `as.data.frame()` to convert to a data frame.\nℹ The deprecated feature was likely used in the bib2df package.\n  Please report the issue to the authors.\n\nCode\n# Reverse ordered list\nc(\n  \"&lt;ol reversed&gt;\",\n  pubs,\n  \"&lt;/ol&gt;\"\n) |&gt;\n  cat()\n\n\n\nWebber, M.A., Keener, W., Spears, A.C., Cotter, M.P., Lane, R.S., Payne, A.R., Markowitz, T.M.. (2023). New Record of California Coastal Bottlenose Dolphins (Tursiops truncatus) in Offshore Waters. Aquatic Mammals."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Allison Payne",
+    "section": "",
+    "text": "I’m a PhD student in the Beltran Lab at UC Santa Cruz interested in utilizing long-term ecological data sets for conservation, with current projects spanning demography, passive acoustics, and bio-logging. I’m passionate about inclusive teaching, mentoring and publishing with undergraduates, and science facilitation practices."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a PhD student in the Ecology and Evolutionary Biology Department at UC Santa Cruz. I’m a member of the Beltran Lab, whose members focus on a diversity of projects related to bio-logging, elephant seals, demography, and diversity, equity, and inclusion.\nMy dissertation will focus on:\n\nidentifying best practices for bio-logging instrumentation across walkers, swimmers, and flyers\ndetecting cryptic beaked whale species in Monterey Bay from fixed hydrophones\ninstrumenting elephant seals with a novel passive acoustic instrument to detect beaked whales across the North Pacific\n\n\n\n\nEducation\nUniversity of California, Santa Cruz | Santa Cruz, CA\nPhD in Ecology and Evolutionary Biology | present\nSan Francisco State University | San Francisco, CA\nMS in Interdisciplinary Marine and Estuarine Science | 2021\nUniversity of California, Berkeley | Berkeley, CA\nBA in Cognitive Science | 2016"
+  }
+]
