@@ -1,21 +1,40 @@
 ---
 title: "Allison Payne"
-sidebar: false 
+image: headshot_allison.jpeg
+toc: false 
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links: 
+    - text: Email 
+      href: mailto:alrpayne@ucsc.edu
+      icon: envelope
+    - text: Github
+      href: https://github.com/allisonpayne
+      icon: github
+    - text: Instagram
+      href: https://instagram.com/whalegirlorg
+      icon: instagram
 ---
+### Hi there!
 
-::: columns
-::: {.column width="35%"}
-![](img/headshot_allison.jpeg)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="60%"}
 I'm a PhD student in the Beltran Lab at UC Santa Cruz interested in utilizing long-term ecological data sets for conservation.
 
 My current projects focus on demography, passive acoustics, and bio-logging. I'm passionate about inclusive teaching, mentoring/publishing with undergraduates, and science facilitation practices.
-:::
-:::
 
-## 
+---
+
+### Education
+
+**University of California, Santa Cruz** \| Santa Cruz, CA
+
+PhD in Ecology and Evolutionary Biology \| present
+
+**San Francisco State University** \| San Francisco, CA
+
+MS in Interdisciplinary Marine and Estuarine Science \| 2021
+
+**University of California, Berkeley** \| Berkeley, CA
+
+BA in Cognitive Science \| 2016
