@@ -8,12 +8,16 @@ website:
       - href: index.qmd
         text: Home
       - pubs.qmd
+      - projects.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - custom.scss
+    mainfont: Quicksand
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
