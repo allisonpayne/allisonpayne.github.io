@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 sidebar: false 
+fontfamily: "Georgia"
 ---
 
 ```{r}
