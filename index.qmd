@@ -18,7 +18,7 @@ about:
       icon: instagram
 ---
 
-## Hi there!
+[Hi there!]{.custom-subtitle}
 
 I'm a PhD student in the Beltran Lab at UC Santa Cruz interested in utilizing long-term ecological data sets for conservation.
 
@@ -28,14 +28,14 @@ My current projects focus on demography, passive acoustics, and bio-logging. I'm
 
 ## Education
 
-#### **University of California, Santa Cruz** 
+#### **University of California, Santa Cruz**
 
 *PhD in Ecology and Evolutionary Biology \| present*
 
-#### **San Francisco State University** 
+#### **San Francisco State University**
 
 *MS in Interdisciplinary Marine and Estuarine Science \| 2021*
 
-#### **University of California, Berkeley** 
+#### **University of California, Berkeley**
 
 *BA in Cognitive Science \| 2016*
