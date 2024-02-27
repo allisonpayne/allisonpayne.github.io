@@ -6,10 +6,8 @@ website:
   title: "Allison Payne"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - pubs.qmd
       - projects.qmd
+      - pubs.qmd
 
 format:
   html:
