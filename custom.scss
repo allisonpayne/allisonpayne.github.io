@@ -10,6 +10,7 @@ $orange:    #fab084;
 $sage:      #c9e6c9;
 $turquoise: #9bd1c9;
 $orchid:    #c678dd;
+$lightgray: #b7b7b7;
 
 //Base document colors
 $body-bg: $cream; 
@@ -19,14 +20,20 @@ $link-color: $orchid;
 
 //Fonts
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
 /*-- scss:rules --*/
 
 .custom-subtitle {
-  font-size: 30px;
+  font-size: 35px;
+  font-family: Lora;
+  color: $blue;
+}
+
+.custom-subtitle-2 {
+  color: $lightgray;
   font-style: italic;
-  color: $purple;
 }
 
 .bottombr {
