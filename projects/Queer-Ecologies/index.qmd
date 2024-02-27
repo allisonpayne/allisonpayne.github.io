@@ -1,0 +1,15 @@
+---
+title: "Queer Ecologies"
+description: "An undergraduate seminar course exploring queer perspectives on familar ecological topics"
+draft: false 
+image: queerecobanner.jpeg
+categories: [teaching]
+---
+
+[Aspen Ellis](www.boriellis.github.io) and I first designed and taught our course, titled [**Queer Ecologies**](www.allisonpayne.github.io/queerecologies), in spring 2023. This class was a seminar style undergraduate course designed to expand students' horizons, incorporate diverse perspectives into the existing curriculum, and build community. We're thrilled to be offering the class again in spring 2024.
+
+Don't miss checking out our students' incredible Unessay[^1] projects [here](https://allisonpayne.github.io/queerecologies/2023/week10.html)!
+
+[^1]: *Unessay inspiration and instructions were minimally adapted from Professor Calvin Blevins at Northeastern University:* *https://cblevins.github.io/f19-west/unessay/*
+
+![Unessay project by 2023 student India Mutchnick.](india.png){fig-align="center"}
