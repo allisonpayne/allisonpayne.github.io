@@ -1,6 +1,6 @@
 ---
 title: "Queer Ecologies"
-description: "An undergraduate seminar course exploring queer perspectives on familar ecological topics"
+description: "An undergraduate seminar course exploring queer perspectives on familar ecological topics."
 draft: false 
 image: queerecobanner.jpeg
 categories: [teaching]

@@ -1,0 +1,11 @@
+---
+title: "Open Biologging Project"
+description: "A systematic review of open science practices in biologging."
+draft: false 
+image: open-bio.png
+categories: [biologging, open science]
+---
+
+Read about our efforts to review the state of open science for biologging on the [project website](https://flukeandfeather.github.io/openbiologging/).
+
+This review is led by [Dr. Max Czapanskiy](flukeandfeather.com) (with help from many other amazing co-authors). Join the review team and help us out!
