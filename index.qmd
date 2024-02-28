@@ -22,7 +22,7 @@ about:
 
 I'm a PhD student in the [Beltran Lab](https://beltranlab.ucsc.edu/) at UC Santa Cruz.
 
-My current projects use tools such as long-term demographic datasets, passive acoustics, and bio-logging to study marine predators. I'm also passionate about inclusion and equity, mentoring and publishing with undergraduates, and science facilitation practices.
+My current projects use tools like long-term demographic datasets, passive acoustics, and bio-logging to study marine predators. I'm also passionate about inclusion and equity, mentoring and publishing with undergraduates, and science facilitation practices.
 
 ------------------------------------------------------------------------
 
