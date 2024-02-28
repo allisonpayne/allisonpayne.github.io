@@ -8,4 +8,4 @@ categories: [dei, fieldwork]
 
 I am the Director of Facilitation for [FieldFutures](fieldfutures.org), an organization that delivers workshops for groups of field scientists. The workshops are interactive and address the unique concerns of remote fieldwork.
 
-We recently evaluated the efficacy of the workshop through a collaboration with a state agency. Read the manuscript [here](https://doi.org/10.1038/s41598-023-49203-0).
+We recently evaluated the efficacy of the workshop through a collaboration with a state agency. Read the manuscript [here](https://doi.org/10.1038/s41598-023-49203-0) and a news bulletin [here](https://news.ucsc.edu/2024/01/fieldwork-harassment-research.html?utm_source=MarketingCloud&utm_medium=email&utm_campaign=_Impact+Report%2c+January+2024&utm_content=https%3a%2f%2fnews.ucsc.edu%2f2024%2f01%2ffieldwork-harassment-research.html).
