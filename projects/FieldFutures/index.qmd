@@ -1,0 +1,11 @@
+---
+title: "Anti-Harassment Workshops"
+description: "Preventing harassment and assault for field scientists"
+draft: false 
+image: fieldfutures.jpeg
+categories: [dei, fieldwork]
+---
+
+I am the Director of Facilitation for [FieldFutures](fieldfutures.org), an organization that delivers workshops for groups of field scientists. The workshops are interactive and address the unique concerns of remote fieldwork.
+
+We recently evaluated the efficacy of the workshop through a collaboration with a state agency. Read the manuscript [here](https://doi.org/10.1038/s41598-023-49203-0).
