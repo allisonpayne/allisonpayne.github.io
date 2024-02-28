@@ -20,9 +20,9 @@ about:
 
 [Hi there!]{.custom-subtitle}
 
-I'm a PhD student in the Beltran Lab at UC Santa Cruz interested in utilizing long-term ecological data sets for conservation.
+I'm a PhD student in the [Beltran Lab](https://beltranlab.ucsc.edu/) at UC Santa Cruz.
 
-My current projects focus on demography, passive acoustics, and bio-logging. I'm passionate about inclusive teaching, mentoring/publishing with undergraduates, and science facilitation practices.
+My current projects use tools such as long-term demographic datasets, passive acoustics, and bio-logging to study marine predators. I'm also passionate about inclusion and equity, mentoring and publishing with undergraduates, and science facilitation practices.
 
 ------------------------------------------------------------------------
 
