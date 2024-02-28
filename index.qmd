@@ -1,6 +1,6 @@
 ---
 title: "Allison Payne"
-image: allison_headshot.jpeg
+image: allison-headshot.png
 toc: false 
 about: 
   template: trestles
