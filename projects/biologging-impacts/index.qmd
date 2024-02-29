@@ -1,0 +1,13 @@
+---
+title: "Biologging Instrument Impact Review"
+description: "A minimum reporting standard to promote animal welfare and data quality in biologging research"
+draft: true 
+image: Figure3.png
+categories: [biologging, open science]
+---
+
+The first chapter of my dissertation is a broad, comprehensive review of the impacts of biologging instruments and the implications for animal welfare and data quality.
+
+Read the preprint here.
+
+View the minimum reporting standard for instrument characteristics [here](https://docs.google.com/document/d/1qqSSb6Vxf78JE3wiOcwboJW17nuB-OujI-5XyhY_NeI/edit).
