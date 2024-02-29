@@ -1,7 +1,7 @@
 ---
 title: "Biologging Instrument Impact Review"
 description: "A minimum reporting standard to promote animal welfare and data quality in biologging research"
-draft: true 
+draft: false 
 image: Figure3.png
 categories: [biologging, open science]
 ---
