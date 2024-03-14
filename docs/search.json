@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Allison Payne",
     "section": "",
-    "text": "Hi there!\nI’m a PhD student in the Beltran Lab at UC Santa Cruz.\nMy current projects use tools like long-term demographic datasets, passive acoustics, and bio-logging to study marine predators. I’m also passionate about inclusion and equity, mentoring and publishing with undergraduates, and science facilitation practices.\n\nEducation\nUniversity of California, Santa Cruz\nPhD in Ecology and Evolutionary Biology | present\nSan Francisco State University\nMS in Interdisciplinary Marine and Estuarine Science | 2022\nUniversity of California, Berkeley\nBA in Cognitive Science | 2016"
+    "text": "Hi there!\nI’m a PhD student in the Beltran Lab at UC Santa Cruz.\nMy current projects use long-term demographic datasets, passive acoustics, and bio-logging to study the ecology of marine predators. Read more about my research interests, or explore individual projects.\n\nEducation\nUniversity of California, Santa Cruz\nPhD in Ecology and Evolutionary Biology | present\nSan Francisco State University\nMS in Interdisciplinary Marine and Estuarine Science | 2022\nUniversity of California, Berkeley\nBA in Cognitive Science | 2016"
   },
   {
     "objectID": "index.html#hi-there",
@@ -75,5 +75,33 @@
     "title": "Biologging Instrument Impact Review",
     "section": "",
     "text": "The first chapter of my dissertation is a broad, comprehensive review of the impacts of biologging instruments and the implications for animal welfare and data quality.\nRead the preprint here.\nView the minimum reporting standard for instrument characteristics here.\n\n\n\nFigure 1. Sample instrument characteristics that would be useful to document and report with biologging manuscripts include size, mass, sensors, orientation, material, cross-sectional shape, and attachment/detachment method. Animal and data characteristics are also helpful to report."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research themes include the ecology of marine predators, the science of science, and diversity, equity, and inclusion. Read about projects related to these topics below, or browse all projects here."
+  },
+  {
+    "objectID": "research.html#ecology-of-marine-predators",
+    "href": "research.html#ecology-of-marine-predators",
+    "title": "Research",
+    "section": "Ecology of marine predators",
+    "text": "Ecology of marine predators\nI’m interested in using a variety of complementary tools to answer questions about remote ocean ecosystems. As a PhD student in the Beltran Lab, I assist with the elephant seal monitoring program at Año Nuevo State Park. This rich long-term dataset has provided opportunities to take on projects spanning ecology, demography, and biologging. I have also enjoyed teaching and mentoring undergraduates as a field leader for the Beltran lab’s research assistant program and as a teaching assistant for an upper division field class, Field Methods for Large Marine Vertebrates, in which I help guide undergraduates through the scientific process from formulating questions, to collecting data, to publishing the results.\nSelected projects:"
+  },
+  {
+    "objectID": "research.html#science-of-science",
+    "href": "research.html#science-of-science",
+    "title": "Research",
+    "section": "Science of science",
+    "text": "Science of science\nIn addition to ecological questions, I am also interested in the process of scientific discovery. Whether it’s using science facilitation practices to help research teams create new knowledge, documenting the use of open science tools, or distilling best practices from an ecological sub-field, I want to know more about the people, practices, and tools that make science happen.\nSelected projects:"
+  },
+  {
+    "objectID": "research.html#diversity-equity-and-inclusion",
+    "href": "research.html#diversity-equity-and-inclusion",
+    "title": "Research",
+    "section": "Diversity, equity, and inclusion",
+    "text": "Diversity, equity, and inclusion"
   }
 ]
