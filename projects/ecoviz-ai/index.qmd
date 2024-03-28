@@ -1,0 +1,13 @@
+---
+title: "EcoViz + AI"
+description: "Building community to democratize AI for ecology."
+draft: false 
+image: ecoviz.jpg
+categories: [event, open science]
+---
+
+I had the opportunity to work as a science facilitator for the [EcoViz + AI Workshop](https://harmless-dolomite-426.notion.site/ac0866fc656441d7a26c071ad528ed15?v=8f6278b036774b7b86e969dbc31e3de4), led by Dr. Jessica Kendall-Bar and supported by Schmidt Sciences and UC San Diego.
+
+Together with technical facilitator Dr. Max Czapanskiy, I helped lead 30 postdocs, faculty, and technical specialists to create science communication videos, an "AI for Ecology Toolbox", and several collaborative publications to support ecologists in using artificial intelligence.
+
+![](workshop-1.jpg)

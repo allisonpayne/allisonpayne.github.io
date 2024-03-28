@@ -11,14 +11,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Queer & Trans Inclusive Fieldwork Summit\n\n\n\ndei\n\n\nfieldwork\n\n\nevent\n\n\n\nAn event to improve safety for queer + trans field researchers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBiologging Instrument Impact Review\n\n\n\nbiologging\n\n\nopen science\n\n\n\nA minimum reporting standard to promote animal welfare and data quality in biologging research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Biologging Project\n\n\n\nbiologging\n\n\nopen science\n\n\n\nA systematic review of open science practices in biologging.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnti-Harassment Workshops\n\n\n\ndei\n\n\nfieldwork\n\n\n\nPreventing harassment and assault for field scientists\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQueer Ecologies\n\n\n\nteaching\n\n\ndei\n\n\n\nAn undergraduate seminar course exploring queer perspectives on familar ecological topics.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Queer & Trans Inclusive Fieldwork Summit\n\n\n\ndei\n\n\nfieldwork\n\n\nevent\n\n\n\nAn event to improve safety for queer + trans field researchers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBiologging Instrument Impact Review\n\n\n\nbiologging\n\n\nopen science\n\n\n\nA minimum reporting standard to promote animal welfare and data quality in biologging research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Biologging Project\n\n\n\nbiologging\n\n\nopen science\n\n\n\nA systematic review of open science practices in biologging.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnti-Harassment Workshops\n\n\n\ndei\n\n\nfieldwork\n\n\n\nPreventing harassment and assault for field scientists\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEcoViz + AI\n\n\n\nevent\n\n\nopen science\n\n\n\nBuilding community to democratize AI for ecology.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQueer Ecologies\n\n\n\nteaching\n\n\ndei\n\n\n\nAn undergraduate seminar course exploring queer perspectives on familar ecological topics.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElephant Seal Senescence\n\n\n\nseals\n\n\ndemography\n\n\nteaching\n\n\n\nHow demography and behavior changes as elephant seals age.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Allison Payne",
     "section": "",
-    "text": "Hi there!\nI’m a PhD student in the Beltran Lab at UC Santa Cruz.\nMy current projects use long-term demographic datasets, passive acoustics, and bio-logging to study the ecology of marine predators. Read more about my research interests, or explore individual projects.\n\nEducation\nUniversity of California, Santa Cruz\nPhD in Ecology and Evolutionary Biology | present\nSan Francisco State University\nMS in Interdisciplinary Marine and Estuarine Science | 2022\nUniversity of California, Berkeley\nBA in Cognitive Science | 2016"
+    "text": "Hi there!\nI’m a PhD student in the Beltran Lab at UC Santa Cruz.\nMy current projects use long-term demographic datasets, passive acoustics, and bio-logging to study the ecology of marine predators. Explore some of my projects here.\n\nEducation\nUniversity of California, Santa Cruz\nPhD in Ecology and Evolutionary Biology | present\nSan Francisco State University\nMS in Interdisciplinary Marine and Estuarine Science | 2022\nUniversity of California, Berkeley\nBA in Cognitive Science | 2016"
   },
   {
     "objectID": "index.html#hi-there",
@@ -103,5 +103,19 @@
     "title": "Research",
     "section": "Diversity, equity, and inclusion",
     "text": "Diversity, equity, and inclusion"
+  },
+  {
+    "objectID": "projects/Seal-age/index.html",
+    "href": "projects/Seal-age/index.html",
+    "title": "Elephant Seal Senescence",
+    "section": "",
+    "text": "I led a class of 14 undergraduate students in designing and executing this project investigating the types of changes in elephant seal demography and behavior as they age. Interestingly, we found no negative effects for pups born to older mothers, but older seals did change their life history timing to have a longer post-breeding foraging trip.\nCheck out the figures here."
+  },
+  {
+    "objectID": "projects/ecoviz-ai/index.html",
+    "href": "projects/ecoviz-ai/index.html",
+    "title": "EcoViz + AI",
+    "section": "",
+    "text": "I had the opportunity to work as a science facilitator for the EcoViz + AI Workshop, led by Dr. Jessica Kendall-Bar and supported by Schmidt Sciences and UC San Diego.\nTogether with technical facilitator Dr. Max Czapanskiy, I helped lead 30 postdocs, faculty, and technical specialists to create science communication videos, an “AI for Ecology Toolbox”, and several collaborative publications to support ecologists in using artificial intelligence."
   }
 ]
