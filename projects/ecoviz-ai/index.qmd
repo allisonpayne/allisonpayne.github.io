@@ -3,7 +3,7 @@ title: "EcoViz + AI"
 description: "Building community to democratize AI for ecology."
 draft: false 
 image: ecoviz.jpg
-categories: [event, open science]
+categories: [facilitator]
 ---
 
 I had the opportunity to work as a science facilitator for the [EcoViz + AI Workshop](https://harmless-dolomite-426.notion.site/ac0866fc656441d7a26c071ad528ed15?v=8f6278b036774b7b86e969dbc31e3de4), led by Dr. Jessica Kendall-Bar and supported by Schmidt Sciences and UC San Diego.

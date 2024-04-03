@@ -11,7 +11,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Queer & Trans Inclusive Fieldwork Summit\n\n\n\ndei\n\n\nfieldwork\n\n\nevent\n\n\n\nAn event to improve safety for queer + trans field researchers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBiologging Instrument Impact Review\n\n\n\nbiologging\n\n\nopen science\n\n\n\nA minimum reporting standard to promote animal welfare and data quality in biologging research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Biologging Project\n\n\n\nbiologging\n\n\nopen science\n\n\n\nA systematic review of open science practices in biologging.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnti-Harassment Workshops\n\n\n\ndei\n\n\nfieldwork\n\n\n\nPreventing harassment and assault for field scientists\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEcoViz + AI\n\n\n\nevent\n\n\nopen science\n\n\n\nBuilding community to democratize AI for ecology.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQueer Ecologies\n\n\n\nteaching\n\n\ndei\n\n\n\nAn undergraduate seminar course exploring queer perspectives on familar ecological topics.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElephant Seal Senescence\n\n\n\nseals\n\n\ndemography\n\n\nteaching\n\n\n\nHow demography and behavior changes as elephant seals age.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Queer & Trans Inclusive Fieldwork Summit\n\n\n\nlead\n\n\n\nAn event to improve safety for queer + trans field researchers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBiologging Instrument Impact Review\n\n\n\nlead\n\n\n\nA minimum reporting standard to promote animal welfare and data quality in biologging research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Biologging Project\n\n\n\ncollaborator\n\n\n\nA systematic review of open science practices in biologging.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnti-Harassment Workshops\n\n\n\nfacilitator\n\n\n\nPreventing harassment and assault for field scientists\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEcoViz + AI\n\n\n\nfacilitator\n\n\n\nBuilding community to democratize AI for ecology.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQueer Ecologies\n\n\n\nlead\n\n\n\nAn undergraduate seminar course exploring queer perspectives on familar ecological topics.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElephant Seal Senescence\n\n\n\nlead\n\n\n\nHow demography and behavior changes as elephant seals age.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeal Acoustic Tag\n\n\n\nlead\n\n\n\nDeveloping a passive acoustic recorder to be carried by elephant seals.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -124,5 +124,12 @@
     "title": "Research",
     "section": "Inclusive research practices",
     "text": "Inclusive research practices\nI believe in thinking deeply not only about my research questions, but also how that research is done. I’m passionate about creating more inclusive environments and have worked in particular on several projects to improve the safety of LGBTQ+ scientists.\nSelected projects:\nQueer Ecologies, an undergraduate course in Ecology and Evolutionary Biology\nQueer & Trans Inclusive Field Summit\nOceanography’s Diversity Deficit, co-led with labmates Salma Abdel-Raheem and Milagros Rivera"
+  },
+  {
+    "objectID": "projects/Seal Acoustic Tag/index.html",
+    "href": "projects/Seal Acoustic Tag/index.html",
+    "title": "Seal Acoustic Tag",
+    "section": "",
+    "text": "I’m working with collaborators at Cornell to develop an instrument that can record the sounds of the deep ocean - using elephant seals as our mobile platforms! Read more about the project here."
   }
 ]

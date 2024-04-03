@@ -3,7 +3,7 @@ title: "Elephant Seal Senescence"
 description: "How demography and behavior changes as elephant seals age."
 draft: false 
 image: age-fig.png
-categories: [seals, demography, teaching]
+categories: [lead]
 ---
 
 I led a class of 14 undergraduate students in designing and executing this project investigating the types of changes in elephant seal demography and behavior as they age. Interestingly, we found no negative effects for pups born to older mothers, but older seals did change their life history timing to have a longer post-breeding foraging trip.

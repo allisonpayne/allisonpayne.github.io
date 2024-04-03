@@ -3,7 +3,7 @@ title: "Queer & Trans Inclusive Fieldwork Summit"
 description: "An event to improve safety for queer + trans field researchers"
 draft: false 
 image: blue-oak.jpeg
-categories: [dei, fieldwork, event]
+categories: [lead]
 ---
 
 I received a Beyond Compliance grant from UC Santa Cruz to host a small group of UC faculty, postdocs, and grad students who do ecological field research for one weekend at Blue Oak Ranch Reserve. Our goals are to build community, share resources, and identify pressing needs.

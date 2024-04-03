@@ -3,7 +3,7 @@ title: "Queer Ecologies"
 description: "An undergraduate seminar course exploring queer perspectives on familar ecological topics."
 draft: false 
 image: queerecobanner.jpeg
-categories: [teaching, dei]
+categories: [lead]
 ---
 
 [Aspen Ellis](https://boriellis.github.io) and I first designed and taught our course, titled [**Queer Ecologies**](https://allisonpayne.github.io/queerecologies), in spring 2023. This class was a seminar style undergraduate course designed to expand students' horizons, incorporate diverse perspectives into the existing curriculum, and build community. We're thrilled to be offering the class again in spring 2024.

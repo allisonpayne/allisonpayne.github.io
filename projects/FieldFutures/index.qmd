@@ -3,7 +3,7 @@ title: "Anti-Harassment Workshops"
 description: "Preventing harassment and assault for field scientists"
 draft: false 
 image: fieldfutures.jpeg
-categories: [dei, fieldwork]
+categories: [facilitator]
 ---
 
 I am the Director of Facilitation for [FieldFutures](fieldfutures.org), an organization that delivers workshops for groups of field scientists. The workshops are interactive and address the unique concerns of remote fieldwork.

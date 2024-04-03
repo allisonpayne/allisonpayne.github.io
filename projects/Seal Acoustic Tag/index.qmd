@@ -1,0 +1,11 @@
+---
+title: "Seal Acoustic Tag"
+description: "Developing a passive acoustic recorder to be carried by elephant seals."
+draft: false 
+image: allison_tag.JPEG
+categories: [lead]
+---
+
+I'm working with collaborators at Cornell to develop an instrument that can record the sounds of the deep ocean - using elephant seals as our mobile platforms! Read more about the project [here](https://www.vox.com/down-to-earth/22945867/elephant-seals-listening-beaked-whales-ocean).
+
+![](allison_tag.JPEG){width="581"}
