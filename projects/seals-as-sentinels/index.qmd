@@ -1,0 +1,11 @@
+---
+title: "Seals as sentinels"
+description: "Using elephant seals as ecosystem indicators for the twilight zone"
+draft: true 
+#image: 
+categories: [coauthor]
+---
+
+We found that
+
+My advisor Dr. Roxanne Beltran and I led a class of 14 undergraduate students in designing and executing this project, which is currently in review.
