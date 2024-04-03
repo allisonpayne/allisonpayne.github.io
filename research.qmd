@@ -7,11 +7,13 @@ My research themes include the ecology of marine predators, the science of scien
 
 ## Ecology of marine predators
 
-I'm interested in using a variety of complementary tools - particularly biologging and passive acoustic monitoring - to answer questions about remote ocean ecosystems. As a PhD student in the Beltran Lab, I assist with the elephant seal monitoring program at Año Nuevo State Park. This rich long-term dataset has provided opportunities to take on projects spanning ecology, demography, and biologging. I have also enjoyed teaching and mentoring undergraduates as a field leader for the Beltran lab's research assistant program and as a teaching assistant for an upper division field class, *Field Methods for Large Marine Vertebrates,* in which I help guide undergraduates through the scientific process from formulating questions, to collecting data, to publishing the results.
+I'm interested in using a variety of complementary tools - particularly biologging and passive acoustic monitoring - to answer questions about remote ocean ecosystems. I have enjoyed teaching and mentoring undergraduates as a field leader at Año Nuevo State Park for the Beltran lab's research assistant program. I have also been a teaching assistant for an upper division field class, *Field Methods for Large Marine Vertebrates,* in which I help guide undergraduates through the scientific process from formulating questions, to collecting data, to publishing the results.
 
 **Selected projects:**
 
 [*Elephant seal senescence*](https://allisonpayne.github.io/sealaging/paperv3.html)
+
+[*Seal acoustic tag*](https://allisonpayne.github.io/projects/Seal%20Acoustic%20Tag/)
 
 ## Science of science
 
