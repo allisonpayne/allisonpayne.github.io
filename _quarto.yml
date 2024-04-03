@@ -8,6 +8,7 @@ website:
     right:
       - projects.qmd
       - pubs.qmd
+      - research.qmd
 
 format:
   html:
