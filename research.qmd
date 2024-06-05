@@ -3,11 +3,13 @@ title: "Research"
 toc: false 
 ---
 
-My research themes include the ecology of marine predators, the science of science, and diversity, equity, and inclusion. Read about projects related to these topics below, or browse all projects [here](https://allisonpayne.github.io/projects.html).
+I am interested in optimizing ecological research for scientific impact, education, and inclusion by championing on the benefits of long-term ecological studies, open science, and inclusive research practices.
 
-## Ecology of marine predators
+Read about projects related to these topics below, or browse all projects [here](https://allisonpayne.github.io/projects.html).
 
-I'm interested in using a variety of complementary tools - particularly biologging and passive acoustic monitoring - to answer questions about remote ocean ecosystems. I have enjoyed teaching and mentoring undergraduates as a field leader at Año Nuevo State Park for the Beltran lab's research assistant program. I have also been a teaching assistant for an upper division field class, *Field Methods for Large Marine Vertebrates,* in which I help guide undergraduates through the scientific process from formulating questions, to collecting data, to publishing the results.
+## Long term studies
+
+Long-term studies can help answer pressing ecological questions while simultaneously creating research opportunties for early-career ecologists. I have enjoyed teaching and mentoring undergraduates as a field leader at Año Nuevo State Park for the Beltran lab's research assistant program. I have also been a teaching assistant for an upper division field class, *Field Methods for Large Marine Vertebrates,* in which I help guide undergraduates through the scientific process from formulating questions, to collecting data, to publishing the results. We currently have two publications from these classes in review.
 
 **Selected projects:**
 
@@ -15,7 +17,7 @@ I'm interested in using a variety of complementary tools - particularly biologgi
 
 [*Seal acoustic tag*](https://allisonpayne.github.io/projects/Seal%20Acoustic%20Tag/)
 
-## Science of science
+## Open science
 
 In addition to ecological questions, I am also interested in the process of scientific discovery. Whether it's using science facilitation practices to help research teams create new knowledge, documenting the use of open science tools, or distilling best practices from an ecological sub-field, I want to know more about the people, practices, and tools that make science happen.
 
