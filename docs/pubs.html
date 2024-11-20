@@ -214,7 +214,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> TITLE,</span>
 <span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>    <span class="at">journal =</span> JOURNAL,</span>
 <span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>    <span class="at">year =</span> YEAR</span>
-<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">|&gt;</span></span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>    ) <span class="sc">|&gt;</span></span>
 <span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>  <span class="co"># Format in HTML. Markdown doesn't support reverse ordered lists??</span></span>
 <span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">mutate</span>(</span>
 <span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>    <span class="at">pub_html =</span> glue<span class="sc">::</span><span class="fu">glue</span>(<span class="st">"&lt;li&gt;{authors}. ({year}). {title}. &lt;em&gt;{journal}&lt;/em&gt;."</span>)</span>
@@ -230,6 +230,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </details>
 <ol reversed="">
 <li>
+<strong>Payne, A.R.</strong>, Czapanskiy, M.F., Kilpatrick, A.M., Robinson, P.W., Munro, C., …, Beltran, R.S.. (2024). Reproductive success and offspring survival decline for female elephant seals past prime age. <em>Journal of Animal Ecology</em>.
+</li><li>
 Markowitz, T.M., Keener, W., Webber, M.A., <strong>Payne, A.R.</strong>, Lane, R.S., Fahlbusch, J.A., Calambokidis, J.. (2024). New urban habitat for endangered humpback whales: San Francisco Bay. <em>Aquatic Conservation: Marine and Freshwater Ecosystems</em>.
 </li><li>
 Cronin, M.R., Zavaleta, E.S., Beltran, R.S., Esparza, M., <strong>Payne, A.R.</strong>, …, Jones, M.S.. (2024). Testing the effectiveness of interactive training on sexual harassment and assault in field science. <em>Scientific reports</em>.

@@ -58,7 +58,7 @@ pubs <- suppressWarnings(bib2df::bib2df("works.bib")) |>
     title = TITLE,
     journal = JOURNAL,
     year = YEAR
-  ) |>
+    ) |>
   # Format in HTML. Markdown doesn't support reverse ordered lists??
   dplyr::mutate(
     pub_html = glue::glue("<li>{authors}. ({year}). {title}. <em>{journal}</em>.")

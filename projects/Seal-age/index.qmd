@@ -8,4 +8,4 @@ categories: [lead]
 
 I led a class of 14 undergraduate students in designing and executing this project investigating the types of changes in elephant seal demography and behavior as they age. We found that female elephant seals experienced reproductive senescence in the form of decreased breeding probability and decreased offspring survival with advanced maternal age.
 
-This project is in press at the *Journal of Animal Ecology*. Check out the figures [here](https://allisonpayne.github.io/sealaging/paperv3.html).
+This project was published in the the *Journal of Animal Ecology*. Read the paper [here](https://doi.org/10.1111/1365-2656.14226) or check out the GitHub repository [here](https://github.com/allisonpayne/sealaging).
