@@ -38,3 +38,11 @@ San Francisco State University
 University of California, Berkeley
 
 [BA in Cognitive Science \| 2016]{.custom-subtitle-2}
+
+------------------------------------------------------------------------
+
+[Selected work]{.custom-subtitle}
+
+[Reproductive success and offspring survival decline for female elephant seals past prime age.](https://doi.org/10.1111/1365-2656.14226) Payne, Czapanskiy, Kilpatrick, Robinson, ... & Beltran. 2024. *Journal of Animal Ecology.*
+
+[Oceanography’s diversity deficit: Identifying and addressing challenges for marginalized groups.](https://doi.org/10.5670/oceanog.2024.136) Abdel-Raheem\*, Payne\*, Rivera\*, Sturdivant, ... & Beltran. 2023. *Oceanography.*
