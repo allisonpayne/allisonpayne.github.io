@@ -1,8 +1,8 @@
 ---
 title: "Seals as sentinels"
 description: "Using elephant seals as ecosystem indicators for the twilight zone"
-draft: true 
-#image: 
+draft: false 
+image: seals-as-sentinels-info.png
 categories: [coauthor]
 ---
 
@@ -16,5 +16,5 @@ My advisor Dr. Roxanne Beltran and I led a class of 14 undergraduate students in
     src="https://www.canva.com/design/DAFaA3SZOeI/cUiuVW5PCiBvbwIJzemYeQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaA3SZOeI&#x2F;cUiuVW5PCiBvbwIJzemYeQ&#x2F;view?utm_content=DAFaA3SZOeI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">cohort full page</a> by Allison Payne
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaA3SZOeI&#x2F;cUiuVW5PCiBvbwIJzemYeQ&#x2F;view?utm_content=DAFaA3SZOeI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Seals as Sentinels Infographic</a> by Allison Payne
 ```
