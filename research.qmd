@@ -9,15 +9,15 @@ Read about projects related to these topics below, or browse all projects [here]
 
 ## Long term studies
 
-Long-term studies can help answer pressing ecological questions while simultaneously creating research opportunties for early-career ecologists. I have enjoyed teaching and mentoring undergraduates as a field leader at Año Nuevo State Park for the Beltran lab's research assistant program. I have also been a teaching assistant for an upper division field class, *Field Methods for Large Marine Vertebrates,* in which I help guide undergraduates through the scientific process from formulating questions, to collecting data, to publishing the results. We currently have two publications from these classes in review.
+Long-term studies can help answer pressing ecological questions while simultaneously creating research opportunties for early-career ecologists. I have enjoyed teaching and mentoring undergraduates as a field leader at Año Nuevo State Park for the Beltran lab's research assistant program. I have also been a teaching assistant for an upper division field class, *Field Methods for Large Marine Vertebrates,* in which I help guide undergraduates through the scientific process from formulating questions, to collecting data, to publishing the results. We currently have published two manuscripts from these classes, including my dissertation chapter on reproductive senescence in elephant seals.
 
 **Selected projects:**
 
-[*Elephant seal senescence*](https://allisonpayne.github.io/sealaging/paperv3.html)
+[*Elephant seal reproductive senescence*](https://allisonpayne.github.io/sealaging/paperv3.html)
 
 [*Seals as sentinels*](https://allisonpayne.github.io/projects/seals-as-sentinels/)
 
-[*Seal acoustic tag*](https://allisonpayne.github.io/projects/Seal%20Acoustic%20Tag/)
+[*Long-term studies for inclusive education*](https://doi.org/10.1111/ele.14482)
 
 ## Open science
 

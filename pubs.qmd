@@ -37,17 +37,17 @@ format_authors <- function(authors) {
     }
   )
   # Shorten long author lists
-  if (length(authors_formatted) > 7) {
-    authors_short <- c(authors_formatted[1:5], 
-                       "...", 
-                       authors_formatted[length(authors_formatted)])
-  } else {
-    authors_short <- authors_formatted
-  }
+  # if (length(authors_formatted) > 7) {
+  #   authors_short <- c(authors_formatted[1:5], 
+  #                      "...", 
+  #                      authors_formatted[length(authors_formatted)])
+  # } else {
+  #   authors_short <- authors_formatted
+  # }
   # Make my name bold
-  authors_short[authors_short == "Payne, A.R."] <- "<strong>Payne, A.R.</strong>"
+  authors_formatted[authors_formatted == "Payne, A.R."] <- "<strong>Payne, A.R.</strong>"
   # Concatenate
-  paste(authors_short, collapse = ", ")
+  paste(authors_formatted, collapse = ", ")
 }
 
 # Read bib file

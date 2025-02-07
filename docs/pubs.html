@@ -193,17 +193,17 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>    }</span>
 <span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>  )</span>
 <span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>  <span class="co"># Shorten long author lists</span></span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>  <span class="cf">if</span> (<span class="fu">length</span>(authors_formatted) <span class="sc">&gt;</span> <span class="dv">7</span>) {</span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>    authors_short <span class="ot">&lt;-</span> <span class="fu">c</span>(authors_formatted[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>], </span>
-<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>                       <span class="st">"..."</span>, </span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>                       authors_formatted[<span class="fu">length</span>(authors_formatted)])</span>
-<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>  } <span class="cf">else</span> {</span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>    authors_short <span class="ot">&lt;-</span> authors_formatted</span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>  }</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>  <span class="co"># if (length(authors_formatted) &gt; 7) {</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>  <span class="co">#   authors_short &lt;- c(authors_formatted[1:5], </span></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>  <span class="co">#                      "...", </span></span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>  <span class="co">#                      authors_formatted[length(authors_formatted)])</span></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>  <span class="co"># } else {</span></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>  <span class="co">#   authors_short &lt;- authors_formatted</span></span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>  <span class="co"># }</span></span>
 <span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>  <span class="co"># Make my name bold</span></span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>  authors_short[authors_short <span class="sc">==</span> <span class="st">"Payne, A.R."</span>] <span class="ot">&lt;-</span> <span class="st">"&lt;strong&gt;Payne, A.R.&lt;/strong&gt;"</span></span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>  authors_formatted[authors_formatted <span class="sc">==</span> <span class="st">"Payne, A.R."</span>] <span class="ot">&lt;-</span> <span class="st">"&lt;strong&gt;Payne, A.R.&lt;/strong&gt;"</span></span>
 <span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>  <span class="co"># Concatenate</span></span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>  <span class="fu">paste</span>(authors_short, <span class="at">collapse =</span> <span class="st">", "</span>)</span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>  <span class="fu">paste</span>(authors_formatted, <span class="at">collapse =</span> <span class="st">", "</span>)</span>
 <span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>}</span>
 <span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a><span class="co"># Read bib file</span></span>
@@ -230,19 +230,19 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </details>
 <ol reversed="">
 <li>
-Czapanskiy, M.F., Arcila H., Munro, C., Garfield, I., Bastidas, A., …, Beltran, R.S.. (2024). Long-term studies should provide structure for inclusive education and professional development. <em>Ecology Letters</em>.
+Czapanskiy, M.F., Arcila H., Munro, C., Garfield, I., Bastidas, A., <strong>Payne, A.R.</strong>, Ong, K., Storm, N.A., Adachi, T., Hale, C.M., Brown, A., Robinson, P.W., Stewart, M., Abdel-Raheem, S.T., Zavaleta, E., Beltran, R.S.. (2024). Long-term studies should provide structure for inclusive education and professional development. <em>Ecology Letters</em>.
 </li><li>
-Ellis, A.A., Beck, J.N., Howard, E.A., Rabearisoa, A.L., Alissa, L.M., …, Croll, D.A.. (2024). Coalition-building for labor actions in life sciences departments: lessons from the largest academic strike in history. <em>BioScience</em>.
+Ellis, A.A., Beck, J.N., Howard, E.A., Rabearisoa, A.L., Alissa, L.M., Barasi, S., Beltran, R.S., Bernardi, G., Bernier, K., Cronin, M.R., Cruz, N., Flores, I., Gerraty, F.D., Goetz, L., Harenčár, J.G., Kroeker, K.J., Kurle, C.M., Lai, E.Y., L.R., Malakooti, N., Mason, S.E., McElfish, M.M., McNelis, M., Molinari, M.M., Munro, C., Nazario, E.C., <strong>Payne, A.R.</strong>, Poudel, S., Rivera, M.G., Slimp, M., Sridhar, N.M., Tershy, B.R., Third, G.M., Uckele, K.A., Vilches, F.O., Walker, B.J., Wishingrad, V., Witte, E.C., Yeager, M.E., Young, J.K., Zilliacus, K.M., Croll, D.A.. (2024). Coalition-building for labor actions in life sciences departments: lessons from the largest academic strike in history. <em>BioScience</em>.
 </li><li>
-Beltran, R.S., Kilpatrick, A.M., Picardi, S., Abrahms, B., Barrile, G.M., …, Robinson, P.W.. (2024). Maximizing biological insights from instruments attached to animals. <em>Trends in Ecology &amp; Evolution</em>.
+Beltran, R.S., Kilpatrick, A.M., Picardi, S., Abrahms, B., Barrile, G.M., Oestreich, W.K., Smith, J.A., Czapanskiy, M.F., Favilla, A.B., Reisinger, R.R., Kendall-Bar, J.M., <strong>Payne, A.R.</strong>, Savoca, M.S., Palance, D.G., Andrzejaczek, S., Shen, D.M., Adachi, T., Costa, D.P., Storm, N.A., Hale, C.M., Robinson, P.W.. (2024). Maximizing biological insights from instruments attached to animals. <em>Trends in Ecology &amp; Evolution</em>.
 </li><li>
-<strong>Payne, A.R.</strong>, Czapanskiy, M.F., Kilpatrick, A.M., Robinson, P.W., Munro, C., …, Beltran, R.S.. (2024). Reproductive success and offspring survival decline for female elephant seals past prime age. <em>Journal of Animal Ecology</em>.
+<strong>Payne, A.R.</strong>, Czapanskiy, M.F., Kilpatrick, A.M., Robinson, P.W., Munro, C., Ong, K., Bastidas, A., Negrete, A.O., Theders, B., Stillwell, B., Coffey, D., Schweitzer, E., Baugh, E., Salazar, J., Chau-Pech, K., Rodrigues, M., Chavez, M., Wright, S., Rivas, S., Reiter, J., Costa, D.P., Beltran, R.S.. (2024). Reproductive success and offspring survival decline for female elephant seals past prime age. <em>Journal of Animal Ecology</em>.
 </li><li>
 Markowitz, T.M., Keener, W., Webber, M.A., <strong>Payne, A.R.</strong>, Lane, R.S., Fahlbusch, J.A., Calambokidis, J.. (2024). New urban habitat for endangered humpback whales: San Francisco Bay. <em>Aquatic Conservation: Marine and Freshwater Ecosystems</em>.
 </li><li>
-Cronin, M.R., Zavaleta, E.S., Beltran, R.S., Esparza, M., <strong>Payne, A.R.</strong>, …, Jones, M.S.. (2024). Testing the effectiveness of interactive training on sexual harassment and assault in field science. <em>Scientific reports</em>.
+Cronin, M.R., Zavaleta, E.S., Beltran, R.S., Esparza, M., <strong>Payne, A.R.</strong>, Termini, V., Thompson, J., Jones, M.S.. (2024). Testing the effectiveness of interactive training on sexual harassment and assault in field science. <em>Scientific reports</em>.
 </li><li>
-Abdel-Raheem, S.T., <strong>Payne, A.R.</strong>, Rivera, M., Sturdivant, K., W., …, Beltran, R.. (2023). Oceanography’s Diversity Deficit: Identifying and Addressing Challenges for Marginalized Groups. <em>Oceanography</em>.
+Abdel-Raheem, S.T., <strong>Payne, A.R.</strong>, Rivera, M., Sturdivant, K., W., Marquez, M.C., Turner, M., Byers, K., Ornelas, A., Beltran, R.. (2023). Oceanography’s Diversity Deficit: Identifying and Addressing Challenges for Marginalized Groups. <em>Oceanography</em>.
 </li><li>
 Webber, M.A., Keener, W., Spears, A.C., Cotter, M.P., Lane, R.S., <strong>Payne, A.R.</strong>, Markowitz, T.M.. (2023). New Record of California Coastal Bottlenose Dolphins (<i>Tursiops truncatus</i>) in Offshore Waters. <em>Aquatic Mammals</em>.
 </li></ol>
