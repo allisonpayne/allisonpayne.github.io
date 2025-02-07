@@ -11,8 +11,6 @@ about:
       icon: envelope
     - href: https://github.com/allisonpayne
       icon: github
-    - href: https://instagram.com/whalegirlorg
-      icon: instagram
     - href: https://scholar.google.com/citations?user=Cy_x794AAAAJ&hl=en&oi=ao
       icon: mortarboard
 ---
@@ -29,7 +27,7 @@ My current projects use long-term demographic datasets, passive acoustics, and b
 
 [Reproductive success and offspring survival decline for female elephant seals past prime age.](https://doi.org/10.1111/1365-2656.14226) Payne, Czapanskiy, Kilpatrick, Robinson, ... & Beltran. 2024. *Journal of Animal Ecology.*
 
-[Oceanography’s diversity deficit: Identifying and addressing challenges for marginalized groups.](https://doi.org/10.5670/oceanog.2024.136) Abdel-Raheem\*, Payne\*, Rivera\*, Sturdivant, ... & Beltran. 2023. *Oceanography.*
+[Long-term research on elephant seals offers opportunities for undergraduates.](https://animalecologyinfocus.com/2024/12/02/long-term-research-on-elephant-seals-offers-opportunities-for-undergraduates/) Payne. 2024. *Animal Ecology in Focus*.
 
 ------------------------------------------------------------------------
 
