@@ -27,6 +27,8 @@ My current projects use long-term demographic datasets, passive acoustics, and b
 
 [Reproductive success and offspring survival decline for female elephant seals past prime age.](https://doi.org/10.1111/1365-2656.14226) Payne, Czapanskiy, Kilpatrick, Robinson, ... & Beltran. 2024. *Journal of Animal Ecology.*
 
+[Elephant seals as ecosystem sentinels for the northeast Pacific Ocean twilight zone.](https://www.science.org/doi/10.1126/science.adp2244) Beltran, Payne, Kilpatrick, Hale, ... & Costa. 2025. *Science.*
+
 [Long-term research on elephant seals offers opportunities for undergraduates.](https://animalecologyinfocus.com/2024/12/02/long-term-research-on-elephant-seals-offers-opportunities-for-undergraduates/) Payne. 2024. *Animal Ecology in Focus*.
 
 ------------------------------------------------------------------------
