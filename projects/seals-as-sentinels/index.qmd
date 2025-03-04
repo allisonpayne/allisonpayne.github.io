@@ -8,6 +8,8 @@ categories: [coauthor]
 
 My advisor Dr. Roxanne Beltran and I led a class of 14 undergraduate students in designing and executing this project connecting basin-scale oceanography to elephant seal fitness, allowing us to use elephant seal success to monitor the twilight zone.
 
+The work was published in *Science* in February 2025, with all fourteen undergraduates as coauthors. Click [here](https://www.science.org/doi/10.1126/science.adp2244) to read the paper and [here](https://www.cbc.ca/radio/quirks/feb-22-is-it-dark-energy-or-is-time-just-different-in-space-and-more-1.7464373) for a short interview on CBC's *Quirks and Quarks*.
+
 ```{=html}
 <div style="position: relative; width: 100%; height: 0; padding-top: 129.4118%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
