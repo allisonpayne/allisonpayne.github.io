@@ -19,7 +19,7 @@ about:
 
 I'm a PhD candidate in the [Beltran Lab](https://beltranlab.ucsc.edu/) at UC Santa Cruz.
 
-I'm interested in how long-term studies can help accelerate discovery in deep ocean ecosystems, all while training the next generation of scientists. Read more about my [research](https://allisonpayne.github.io/research.html), or explore my individual [projects](https://allisonpayne.github.io/projects.html).
+I'm interested in how long-term studies can accelerate discovery in the deep ocean while also training the next generation of scientists. Read more about my [research interests](https://allisonpayne.github.io/research.html), or explore my [projects](https://allisonpayne.github.io/projects.html).
 
 ------------------------------------------------------------------------
 
@@ -41,8 +41,8 @@ University of California, Santa Cruz
 
 San Francisco State University
 
-[MS in Interdisciplinary Marine and Estuarine Science \| 2022]{.custom-subtitle-2}
+[MS in Interdisciplinary Marine and Estuarine Science]{.custom-subtitle-2}
 
 University of California, Berkeley
 
-[BA in Cognitive Science \| 2016]{.custom-subtitle-2}
+[BA in Cognitive Science]{.custom-subtitle-2}
