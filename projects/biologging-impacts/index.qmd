@@ -12,4 +12,4 @@ Read the preprint [here](https://doi.org/10.32942/X29K7X).
 
 View the minimum reporting standard for instrument characteristics [here](https://docs.google.com/document/d/1qqSSb6Vxf78JE3wiOcwboJW17nuB-OujI-5XyhY_NeI/edit).
 
-![Figure 1. Sample instrument characteristics that would be useful to document and report with biologging manuscripts include size, mass, sensors, orientation, material, cross-sectional shape, and attachment/detachment method. Animal and data characteristics are also helpful to report.](figure1_final.png)
+![Figure 1. Sample instrument characteristics that would be useful to document and report with biologging manuscripts include size, mass, sensors, orientation, material, cross-sectional shape, and attachment/detachment method. Animal and data characteristics are also helpful to report.](mrs_fig.png)
