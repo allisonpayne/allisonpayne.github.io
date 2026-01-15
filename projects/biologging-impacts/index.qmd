@@ -6,10 +6,6 @@ image: Figure3.png
 categories: [lead]
 ---
 
-The first chapter of my dissertation is a broad, comprehensive review of the impacts of biologging instruments and the implications for animal welfare and data quality.
+The first chapter of my dissertation proposes a minimum reporting standard for biologging instruments to improve animal welfare and data quality. Read the paper [here](https://doi.org/10.1186/s40317-025-00438-w).
 
-Read the preprint [here](https://doi.org/10.32942/X29K7X).
-
-View the minimum reporting standard for instrument characteristics [here](https://docs.google.com/document/d/1qqSSb6Vxf78JE3wiOcwboJW17nuB-OujI-5XyhY_NeI/edit).
-
-![Figure 1. Sample instrument characteristics that would be useful to document and report with biologging manuscripts include size, mass, sensors, orientation, material, cross-sectional shape, and attachment/detachment method. Animal and data characteristics are also helpful to report.](mrs_fig.png)
+![](mrs_fig.png)
