@@ -1,6 +1,6 @@
 ---
-title: "Biologging Instrument Impact Review"
-description: "A minimum reporting standard to promote animal welfare and data quality in biologging research"
+title: "Biologging Minimum Reporting Standards"
+description: "Towards a minimum reporting standard to promote animal welfare and data quality in biologging research"
 draft: false 
 image: Figure3.png
 categories: [lead]
