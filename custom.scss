@@ -27,7 +27,7 @@ $link-color: $orchid;
 
 .custom-subtitle {
   font-size: 35px;
-  font-family: Lora;
+  font-family: "Lora";
   color: $blue;
 }
 
@@ -40,5 +40,7 @@ $link-color: $orchid;
   margin-bottom: 3em;
 }
 
-b,strong {font-weight: 850} //does not seem to be working
+b,strong {
+  font-weight: 850;
+} //does not seem to be working
 
