@@ -7,7 +7,7 @@ about:
   image-shape: round
   image-width: 20em
   links: 
-    - href: mailto:apayne@ucsb.nceas.edu
+    - href: mailto:apayne@nceas.ucsb.edu
       icon: envelope
     - href: https://github.com/allisonpayne
       icon: github
